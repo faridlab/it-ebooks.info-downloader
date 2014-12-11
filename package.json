@@ -18,22 +18,22 @@
   ],
   "author": "Farid Hidayat <e.faridhidayat@gmail.com>",
   "license": "MIT",
-    "dependencies": {
-        "optimist": "^0.6.1",
-            "q": "^1.0.1",
-                "node-uuid": "^1.4.1",
-                    "winston": "^0.7.3",
-                        "lodash": "^2.4.1",
-                            "request": "^2.40.0",
-                                "later": "~1.1.6",
-                                    "socket.io": "~1.2.0",
-                                        "easy-table": "^0.3.0",
-                                            "cli-color": "^0.3.2"
-                                              },
-                                                "devDependencies": {
-                                                    "chai": "^1.9.1",
-                                                        "chai-spies": "^0.5.1"
-                                                          },
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "q": "^1.0.1",
+    "node-uuid": "^1.4.1",
+    "winston": "^0.7.3",
+    "lodash": "^2.4.1",
+    "request": "~2.51.0",
+    "later": "~1.1.6",
+    "socket.io": "~1.2.0",
+    "easy-table": "^0.3.0",
+    "cli-color": "^0.3.2"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "chai-spies": "^0.5.1"
+  },
   "bugs": {
     "url": "https://github.com/faridlab/it-ebooks.info-downloader/issues"
   },
