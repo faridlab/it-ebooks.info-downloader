@@ -1,0 +1,41 @@
+{
+  "name": "it-ebooks.info-downloader",
+  "version": "0.0.1",
+  "description": "IT ebooks donwloader from it-ebooks.info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/faridlab/it-ebooks.info-downloader.git"
+  },
+  "keywords": [
+    "ebook",
+    "download",
+    "downloader",
+    "it-ebook"
+  ],
+  "author": "Farid Hidayat <e.faridhidayat@gmail.com>",
+  "license": "MIT",
+    "dependencies": {
+        "optimist": "^0.6.1",
+            "q": "^1.0.1",
+                "node-uuid": "^1.4.1",
+                    "winston": "^0.7.3",
+                        "lodash": "^2.4.1",
+                            "request": "^2.40.0",
+                                "later": "~1.1.6",
+                                    "socket.io": "~1.2.0",
+                                        "easy-table": "^0.3.0",
+                                            "cli-color": "^0.3.2"
+                                              },
+                                                "devDependencies": {
+                                                    "chai": "^1.9.1",
+                                                        "chai-spies": "^0.5.1"
+                                                          },
+  "bugs": {
+    "url": "https://github.com/faridlab/it-ebooks.info-downloader/issues"
+  },
+  "homepage": "https://github.com/faridlab/it-ebooks.info-downloader"
+}
