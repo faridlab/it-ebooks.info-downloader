@@ -1,0 +1,10 @@
+{
+    "folder_exclude_patterns": "node_modules/*",
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}
