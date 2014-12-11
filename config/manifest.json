@@ -1,0 +1,7 @@
+{
+    "api": {
+        "url": "http://it-ebooks-api.info/v1/",
+        "search": "http://it-ebooks-api.info/v1/search/",
+        "book": "http://it-ebooks-api.info/v1/book/"
+    }
+}
